@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jairon
-- 👀 I’m interested in Desenvolvimento Front-end
-- 🌱 I’m currently learning JS/CSS/HTML
-- 💞️ I’m looking to collaborate on Projetos Web
-- 📫 jairondlf@gmail.com
+- 👋 Olá, me chamo Jairon
+- 👀 Tenho interesse em Automação de Testes Web
+- 🌱 Atualmente estou aprendendo Cypress / JavaScript
+- 💞️ Quero colaborar em Projetos de Testes Automatizados Web
+- 📫 Entre em contato comigo no email jairondlf@gmail.com
 
 <!---
 jaironD/jaironD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
