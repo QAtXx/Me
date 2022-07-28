@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Jairon
-- 👀 Tenho interesse em Automação de Testes Web
-- 🌱 Atualmente estou aprendendo Cypress / JavaScript
+- 👀 Tenho interesse em Testes em plataformas Web
+- 🌱 Atualmente estou aprendendo Cypress / JavaScript / BDD
 - 💞️ Quero colaborar em Projetos de Testes Automatizados Web
 - 📫 Entre em contato comigo no email jairondlf@gmail.com
 
