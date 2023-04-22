@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Jairon
+- 👋 Olá
 - 👀 Tenho interesse em Testes em plataformas Web
 - 🌱 Atualmente estou aprendendo Cypress / JavaScript / BDD
 - 💞️ Quero colaborar em Projetos de Testes Automatizados Web
