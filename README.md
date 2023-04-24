@@ -1,8 +1,9 @@
 - 👋 Olá
-- 👀 Tenho interesse em Testes em plataformas Web
+- 👀 Tenho interesse em Testes Web e Mobile
 - 🌱 Atualmente estou aprendendo Cypress / JavaScript / BDD
-- 💞️ Quero colaborar em Projetos de Testes Automatizados Web
-- 📫 Entre em contato comigo no email jairondlf@gmail.com
+- 💞️ Quero colaborar em Projetos de Testes Automatizados Web e Mobile
+- 📫 jairondlf@gmail.com
+- 📱(64)99292-9511
 
 <!---
 jaironD/jaironD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
